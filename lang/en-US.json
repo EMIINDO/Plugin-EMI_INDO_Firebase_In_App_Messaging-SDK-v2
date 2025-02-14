@@ -1,0 +1,31 @@
+{
+  "languageTag": "en-US",
+  "fileDescription": "Strings for Firebase_In_App_Messaging Plugin",
+  "text": {
+    "plugins": {
+      "emi_indo_firebase_in_app_messaging": {
+        "name": "Firebase_In_App_Messaging",
+        "description": "Firebase_In_App_Messaging",
+        "help-url": "https://github.com/chemerisuk/cordova-plugin-firebase-inappmessaging#readme",
+        "properties": {
+          "IOS-FIREBASE-INAPPMESSAGING-VERSION": {
+            "name": "IOS FIREBASE INAPPMESSAGING VERSION",
+            "desc": "to override dependency versions for Firebase SDKs."
+          },
+          "ANDROID-FIREBASE-INAPPMESSAGING-VERSION": {
+            "name": "ANDROID FIREBASE INAPPMESSAGING VERSION",
+            "desc": "to override dependency versions for Firebase SDKs."
+          },
+          "Variable-Config": {
+            "name": "Variable Config",
+            "desc": "to override dependency versions for Firebase SDKs."
+          }
+        },
+        "aceCategories": {},
+        "conditions": {},
+        "actions": {},
+        "expressions": {}
+      }
+    }
+  }
+}
